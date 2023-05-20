@@ -6,4 +6,4 @@
  ![Discord](https://discord.c99.nl/widget/theme-1/1107716096766779502.png)
 
 ## Listening to : 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qxfbgehbyobmubiwwdceao7iaa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qxfbgehbyobmubiwwdceao7iaa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qxfbgehbyobmubiwwdceao7iaa&redirect=true)
