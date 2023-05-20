@@ -1,4 +1,1 @@
-Hey Im Baraa 👋
-
-Developer at day 👨‍💻 , gamer at night 🎮
-
+Hey I'm Baraa 👋
